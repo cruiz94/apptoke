@@ -1,0 +1,24 @@
+Bitacora Dia: Thu Sep 29 14:00:17 CDT 2016
+
+
+ Thu Sep 29 13:59:13 CDT 2016 - carlos es hijo de carlos? R= Si es su hijo/a
+
+
+ Thu Sep 29 13:59:54 CDT 2016 - yvonne es nieto/a de miguel? R= Si es su nieto
+
+
+ Thu Sep 29 14:00:08 CDT 2016 - miguel es abuelo/a de yvonne? R= Si es su abuelo/a
+
+Bitacora Dia: Wed Oct 05 03:34:17 CDT 2016
+
+
+ Wed Oct 05 03:33:07 CDT 2016 - carlos cr es hijo de/a de carlos cgr? R= Si es hijo de carlos cgr
+
+
+ Wed Oct 05 03:33:26 CDT 2016 - emilio rb es tio de/a de yvonne cr? R= Si es tio/a de yvonne cr
+
+
+ Wed Oct 05 03:33:47 CDT 2016 - yvonne cr es sobrino de/a de carlos rb? R= Si es sobrino/a de carlos rb
+
+
+ Wed Oct 05 03:34:11 CDT 2016 - carlos rb es sobrino de/a de yvonne cr? R= No es su sobrino/a
